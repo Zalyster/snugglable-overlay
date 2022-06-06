@@ -86,7 +86,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url(Snugglable_Home.png) no-repeat center;
 }
 
 .ds4 .p0{
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(Select.png);
+    background: url(Snugglable_Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -279,7 +279,7 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(Start.png);
+    background-image: url(Snugglable_Start.png);
     width: 26px;
     height: 43px;
 }
