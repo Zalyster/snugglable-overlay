@@ -81,8 +81,8 @@
     width: 100px;
     height: 100px;
     position: absolute;
-    left: 546px;
-    bottom: 264px;
+    left: 551px;
+    bottom: 254px;
 }
 
 .ds4 .meta.pressed {
@@ -111,19 +111,19 @@ background-position: 0 -70px;
 
 .ds4 .back, .ds4 .start {
     background: url(Snugglable_Select.png);
-    width: 26px;
+    width: 28px;
     height: 43px;
     opacity: 0;
 }
 .ds4 .start {
     position: absolute;
-    left: 546px;
-    bottom: -30px;
+    left: 547px;
+    bottom: -28px;
 }
 .ds4 .back {
     position: absolute;
-    left: 170px;
-    bottom: -30px;
+    left: 172px;
+    bottom: -28px;
 }
 
 
@@ -280,8 +280,8 @@ background-position: 0 -70px;
 
 .ds4.white .back, .ds4 .start {
     background-image: url(Snugglable_Start.png);
-    width: 26px;
-    height: 43px;
+    width: 28px;
+    height: 42px;
 }
 
 /*END PS4 White Controller Styling*/
