@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(White_SkinNo_Buttons.png);
+    background: url(Snugglable_Skin.png);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(FaceButtons.png);
+    background: url(Snugglable_Face.png);
 }
 
 .ds4 .button.pressed {
