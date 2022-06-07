@@ -12,15 +12,15 @@
 }
 
 .ds4 .triggers {
-    width: 598px;
-    height: 90px;
+    width: 600px;
+    height: 93px;
     position: absolute;
-    left: 299px;
-    top: 38px;
+    left: 304px;
+    top: 37px;
 }
 
 .ds4 .trigger {
-    width: 99px;
+    width: 100px;
     height: 100%;
     background: url(Snugglable_Triggers.png);
     opacity: 0;
@@ -32,13 +32,13 @@
 
 .ds4 .trigger.right {
     float: right;
-    background-position-x: 99px;
+    background-position-x: 100px;
 }
 
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Snugglable_Bumpers.png) no-repeat;
+    background: url(Snugglable_Bumper.png) no-repeat;
     opacity: 0;
 }
 
